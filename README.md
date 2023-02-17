@@ -1,2 +1,1 @@
-# Share-Buttons
- 
+![Project thumbnail](./thumbnail.png)
